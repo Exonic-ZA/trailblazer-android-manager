@@ -4,7 +4,7 @@
 
 ## Overview
 
-Traccar Client is an Android GPS tracking application. It can work with Traccar open source server software.
+Trailblazer Pioneer - Manager is an Android GPS tracking application. It can work with Traccar open source server software.
 
 ## Team
 
